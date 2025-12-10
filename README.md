@@ -206,7 +206,7 @@ curl "http://localhost:3000/search/dishes?name=biryani&minPrice=150&maxPrice=300
 ### Using Browser:
 Navigate to:
 ```
-http://localhost:3000/search/dishes?name=biryani&minPrice=150&maxPrice=300
+https://convertcart-k8fj.onrender.com/search/dishes?name=Chicken%20Biryani&minPrice=150&maxPrice=300
 ```
 
 ### Using Postman:
